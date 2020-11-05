@@ -1,5 +1,7 @@
-#testing commit while learning Git in Recovery..hhaha..changed file after stagging it#
 # Drug-Addicts-Counseling
-# hello all i m making some changes here and will be afdding this in the first commit usinf
-# git commit --amend
+
+#This GitHub repository is for people who are addicted to some habits,actions or substance.
+#We don't differntiate on basis of caste, color,status,sex etc.
+#Also we are self supporting organization.Hence we don't have any membership fee or any other fees.
+#We invite to join us and live an Happy, Joyous and Free Life.
 
